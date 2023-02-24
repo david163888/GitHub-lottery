@@ -10,10 +10,10 @@ import os
 
 #from itertools import permutations
 from itertools import combinations
-bet_number = 22
+bet_number = 18
 exclusive = []
 inclusive = []
-digit_limit = [5,5,5,5,5] #0,1,2,3,4
+digit_limit = [4,4,4,4,4] #0,1,2,3,4
 
 #Original = [12] OK
 #for w in range( length5*2 ): 
